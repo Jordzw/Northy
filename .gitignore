@@ -1,0 +1,9 @@
+node_modules/
+
+.env
+
+tools/party/create/866682023770980353/
+tools/sondage/create/866682023770980353/
+tools/giveaway/create/866682023770980353/
+
+config/config.json

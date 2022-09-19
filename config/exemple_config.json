@@ -1,0 +1,16 @@
+{
+    "Users": {
+      "OWNERS": ["???"]
+    },
+
+    "Guild": {
+      "main_guild":  "???"
+    },
+    "Handlers": {
+      "GUILD_ID": ""
+    },
+    "Color": {
+      "success": "#40b97c",
+      "error": "#ce2020"
+    }
+  }

@@ -1,0 +1,11 @@
+const { EmbedBuilder } = require("discord.js");
+
+module.exports = {
+  name: "NAME",
+  description: "DESC",
+  run: async ({ client, interaction }) => {
+    
+
+    
+  },  
+};
